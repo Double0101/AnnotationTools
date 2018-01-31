@@ -39,7 +39,7 @@ img/img1.jpg  1  296 171 52 52
 img/img2.jpg  2  100 200 50 50   50 30 25 25
 ```
 
-Image img1.jpg contains single object instance with the following coordinates of bounding rectangle: (140, 100, 45, 45). Image img2.jpg contains two object instances.
+Image img1.jpg contains single object instance with the following coordinates of bounding rectangle: (296, 171, 52, 52). Image img2.jpg contains two object instances.
 
 * Output
 
